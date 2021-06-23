@@ -1,0 +1,10 @@
+com\prueba\service\mapper\PruebaMapper.class
+com\prueba\controller\PruebaController.class
+com\prueba\service\PruebaService.class
+com\prueba\persistence\model\PruebaEntidad.class
+com\prueba\persistence\repository\PruebaRepository.class
+com\prueba\service\impl\PruebaServiceImpl.class
+com\prueba\dto\PruebaDto.class
+com\prueba\configuration\AppConfiguration.class
+com\prueba\service\mapper\PruebaMapperImpl.class
+com\prueba\App.class
